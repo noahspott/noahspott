@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noahspott
+- 👀 I’m interested in entrepreneurship, space exploration, exercise, music, and philosophy
+- 🌱 I’m currently learning software engineering principles at PSU (Class of 2023)
+- 💞️ I’m looking to collaborate on startup SaaS projects
+- 📫 How to reach me: ncs5113@psu.edu
