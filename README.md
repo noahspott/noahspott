@@ -7,7 +7,7 @@ Currently I'm focused on practicing and honing my **Web Development skills** wit
 <br /><br />
 From my school work, I also have experience with: 
 <br /><br />
->_C++, C, C#, Java_ 
+_C++, C, C#, Java_ 
 <br /><br />
 💞️ I’m looking to collaborate on startup SaaS projects
 <br />
