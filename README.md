@@ -3,7 +3,7 @@ Since 2020, I've been studying Software Engineering at PSU (Class of 2023!)
 <br /><br />
 Currently I'm focused on practicing and honing my **Web Development skills** with: 
 <br /><br />
->_JavaScript, React, HTML, CSS, Node, Express, Axios, Python, Flask_ 
+_JavaScript, React, HTML, CSS, Node, Express, Axios, Python, Flask_ 
 <br /><br />
 From my school work, I also have experience with: 
 <br /><br />
