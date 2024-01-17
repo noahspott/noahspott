@@ -7,6 +7,6 @@ Right now my life revolves around:
 <li>SaaS</li>
 <li>Philosophy</li>
 <li>Exercise</li>
-<br /><br />
+<br />
 If you wanna collaborate on a project, feel free to reach out!
 <br />📫 noahspottdev@gmail.com
