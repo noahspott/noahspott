@@ -9,4 +9,4 @@ Right now my life revolves around:
 <li>Exercise</li>
 <br /><br />
 If you wanna collaborate on a project, feel free to reach out!
-📫 noahspottdev@gmail.com
+<br />📫 noahspottdev@gmail.com
