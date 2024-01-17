@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @noahspott
-I'm a web developer currently coding out of the beautiful Pocono Mountains.
+I'm a web developer and musician currently coding out of the beautiful Pocono Mountains.
 <br /><br />
 Some things I'm interested in:
 <br />
@@ -8,4 +8,5 @@ Some things I'm interested in:
 <li>Philosophy</li>
 <li>Exercise</li>
 <br /><br />
-📫 Please reach out: noahspottdev@gmail.com
+If you wanna collaborate on a project, feel free to reach out!
+📫 noahspottdev@gmail.com
