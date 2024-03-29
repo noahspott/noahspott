@@ -4,7 +4,7 @@
 
 - 🌱 Software Engineer passionate about Web Development
 - 🎓 B.Sc. in Software Engineering from Penn State
-- 🔭 Currently helping businesses leverage the web @ Summit Avenue Web Solutions
+- 🔭 Currently helping businesses leverage the web @ [Summit Avenue Web Solutions](https://summitavenueweb.com/)
 - 💡 Always eager to learn and explore new technologies
 - 📫 Reach me at noahspottdev@gmail.com
 
