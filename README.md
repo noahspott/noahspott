@@ -13,7 +13,7 @@
 - 💻 Languages: JavaScript, Typescript, Python
 - 🚀 Frameworks: React.js, Next.js, React-Native, Expo
 - 🌐 Web Technologies: HTML5, CSS3, RESTful APIs
-- 🔧 Tools: Git, VS Code
+- 🔧 Tools: Git, VS Code, Vim
 
 ## Let's Connect!
 
