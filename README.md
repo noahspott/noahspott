@@ -11,7 +11,7 @@
 ## Tech Stack
 
 - 💻 Languages: JavaScript, Typescript, Python
-- 🚀 Frameworks: React.js, Next.js, React-Native, Expo
+- 🚀 Frameworks/Libraries: React.js, Next.js, Astro
 - 🌐 Web Technologies: HTML5, CSS3, RESTful APIs
 - 🔧 Tools: Git, VS Code, Vim
 
