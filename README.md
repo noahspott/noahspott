@@ -9,7 +9,7 @@ Be a good human.
 const skills = {
   languages: ['JavaScript', 'TypeScript', 'Python'],
   frameworks: ['React', 'Next.js', 'Node.js', 'Astro'],
-  web: ['HTML', 'CSS', 'Tailwind']
+  web: ['HTML', 'CSS', 'Tailwind'],
   tools: ['Sanity CMS', 'supabase', 'Figma']
 }
 ```
